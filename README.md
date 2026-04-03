@@ -26,16 +26,15 @@ I'm a passionate IT student with an interest in building practical systems and c
 
 ## 📌 Ongoing Projects
 
-### 💰 Gamified Budgeting Website
-I am currently working on a budgeting web application designed to help users:
+### 💰 Minimalist Budgeting Website
 - Track expenses 
 - Manage income
-- Improve financial planning by feeling rewarded like games
+- Improve financial planning
 
-### ✅ Horror-Themed Gamified To Do List
-- Gamified but with a twist
-- Makes sure that you do your tasks through high-stakes engagement
-- The horrors emphasizes time management
+### ✅ Minimalist To Do List
+- Practical To Do List
+- Removes the hassle of a to-do list
+- Makes use of proven and tested productivity hacks
   
 ---
 
