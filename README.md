@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Kian Valdez
 
-<!--
-**rEifun30/rEifun30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BS Information Technology Student**  
+📍 Central Luzon State University (CLSU)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a passionate IT student with an interest in building practical systems and continuously improving my programming skills. I enjoy solving problems, learning new technologies, and creating projects that are both functional and user-friendly.
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Languages & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+</p>
+
+---
+
+## 📌 Current Projects
+
+### 💰 Budgeting Website
+I am currently working on a budgeting web application designed to help users:
+- Track expenses
+- Manage income
+- Improve financial planning
+  
+---
+
+## 🎮 Hobbies & Interests
+
+- Playing video games 🎮
+- Reading 📚
+
+---
+
+## 📈 Goals
+
+- Improve full-stack development skills
+- Build more real-world applications
+- Learn advanced system design and architecture
+
+---
+
+⭐ *Thanks for visiting my profile!*
