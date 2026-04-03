@@ -24,13 +24,18 @@ I'm a passionate IT student with an interest in building practical systems and c
 
 ---
 
-## 📌 Current Projects
+## 📌 Ongoing Projects
 
-### 💰 Budgeting Website
+### 💰 Gamified Budgeting Website
 I am currently working on a budgeting web application designed to help users:
-- Track expenses
+- Track expenses 
 - Manage income
-- Improve financial planning
+- Improve financial planning by feeling rewarded like games
+
+### ✅ Horror-Themed Gamified To Do List
+- Gamified but with a twist
+- Makes sure that you do your tasks through high-stakes engagement
+- The horrors emphasizes time management
   
 ---
 
