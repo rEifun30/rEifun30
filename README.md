@@ -12,7 +12,7 @@ I'm a passionate IT student with an interest in building practical systems and c
 
 ## 🛠️ Skills & Technologies
 
-### 💻 Languages & Tools
+### 💻 Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
