@@ -26,7 +26,7 @@ I'm a passionate IT student with an interest in building practical systems and c
 
 ## 📌 Ongoing Projects
 
-### 💰 Flashcard System
+### 🎴 Flashcard System
 - Simplifies the SRS process by only 2 buttons
 - Stops decision fatigue
 - Uses the FSRS algorithm
