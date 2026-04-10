@@ -57,6 +57,12 @@ I'm a passionate IT student with an interest in building practical systems and c
 - Practical To Do List
 - Removes the hassle of a to-do list
 - Makes use of proven and tested productivity hacks
+
+- ### ✅ Practical Envelope Budgeting System
+- Inspired by the likes of YNAB and OpenBudget
+- Planned WebApp and Mobile Integration 
+- Reducing the extra steps to budgeting
+- Provides automated calculations to reach your savings goals
   
 ---
 
